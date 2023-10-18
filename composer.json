@@ -1,0 +1,14 @@
+{
+    "name": "liquid-cats/btcbit-testtask",
+    "type": "liqbrary",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ilya Shabanov"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "symfony/console": "^6.3"
+    }
+}
