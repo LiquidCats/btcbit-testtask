@@ -9,7 +9,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "App\\": "src"
+            "Console\\Charts\\": "src/"
+        }
+    },
+    "config": {
+        "platform": {
+            "php": "8.2"
         }
     },
     "minimum-stability": "stable",
